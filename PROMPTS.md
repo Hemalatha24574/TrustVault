@@ -1,4 +1,10 @@
-# AI assistance log — TrustVault
+## Testing
+- [x] Registration and login
+- [x] Normal user cannot open admin audit page (HTTP 403)
+- [x] Different-company dashboard showed no documents
+- [ ] Only owner can share a document
+- [ ] Only owner, authorized recipient, or same-company admin can download
+- [x] SHA-256 integrity check succeeds on unchanged file (confirmed in audit event)
 
 Record the prompts actually used during development. Edit this file honestly; do not claim prompts or tests that did not happen.
 
@@ -23,5 +29,5 @@ Explain each generated or modified section of the TrustVault code in beginner-fr
 - [x] Different-company dashboard showed no documents
 - [ ] Only owner can share a document
 - [ ] Only owner, authorized recipient, or same-company admin can download
-- [x] SHA-256 integrity check succeeds on unchanged file (confirmed in audit event)
-- [ ] Live URL tested in a private/incognito window
+- [x] SHA-256 integrity check succeeds on unchanged file(confirmed in audit event)
+- [x] Live URL tested in a private/incognito window; login and dashboard worked
