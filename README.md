@@ -1,10 +1,10 @@
-🔐 Vaultora — Intelligent Document Security & Sharing
+**🔐 Vaultora — Intelligent Document Security & Sharing**
 
 Secure. Share. Verify. Trust.
 
 TrustVault is a Flask-based document-sharing application designed to help organizations share files securely. It includes company-level access control, role-based permissions, SHA-256 file integrity verification, and audit logging.
 
-<p align="center">🚀 Live Demo: https://trustvault-xuxn.onrender.com/
+🚀 Live Demo: https://trustvault-xuxn.onrender.com/
 
 💻 GitHub Repository: https://github.com/Hemalatha24574/TrustVault
 
